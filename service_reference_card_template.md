@@ -14,4 +14,3 @@
   * Network Usage
   * Firewall configuration
   * Security recommendations
-  * Security incompatibilities
